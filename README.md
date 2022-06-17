@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![NarutoGIF](https://user-images.githubusercontent.com/95113881/174389612-7443b99a-08a2-4409-b5f6-2515cc554e91.gif)
-
-
 <div align="center">
   <a href="https://github.com/PlayerJoker">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PlayerJoker&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
