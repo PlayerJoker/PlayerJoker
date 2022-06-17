@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![NarutoGIF] (https://user-images.githubusercontent.com/95113881/174389612-7443b99a-08a2-4409-b5f6-2515cc554e91.gif)
+![NarutoGIF](https://user-images.githubusercontent.com/95113881/174389612-7443b99a-08a2-4409-b5f6-2515cc554e91.gif)
 
 
 <div align="center">
